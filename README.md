@@ -1,3 +1,3 @@
-royd
+ROYD nyambe
 
-the project is all about getting familiar with github
+the lab is all about getting started with git for use in industrial application 
